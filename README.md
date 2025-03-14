@@ -2,7 +2,7 @@
 
 ![DING Logo](https://your-logo-url.com/JOB_PORTAL_DING-logo.png)
 
-## 🚀 About DevPool
+## 🚀 About DING
 
 DING is a cutting-edge platform connecting developers with exciting job opportunities and employers with top-tier talent. Built with Next.js and Supabase, this starter kit provides a robust foundation for creating a modern, responsive web application.
 
