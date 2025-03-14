@@ -1,10 +1,10 @@
-# DevPool: Find your next tech talent with DevPool
+# DING: Find your next tech talent with DING Jobs
 
-![DevPool Logo](https://your-logo-url.com/devpool-logo.png)
+![DING Logo](https://your-logo-url.com/JOB_PORTAL_DING-logo.png)
 
 ## 🚀 About DevPool
 
-DevPool is a cutting-edge platform connecting developers with exciting job opportunities and employers with top-tier talent. Built with Next.js and Supabase, this starter kit provides a robust foundation for creating a modern, responsive web application.
+DING is a cutting-edge platform connecting developers with exciting job opportunities and employers with top-tier talent. Built with Next.js and Supabase, this starter kit provides a robust foundation for creating a modern, responsive web application.
 
 ### Key Features
 
@@ -26,8 +26,8 @@ DevPool is a cutting-edge platform connecting developers with exciting job oppor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/devpool.git
-   cd devpool
+   git clone https://github.com/your-username/JOB_PORTAL_DING.git
+   cd JOB_PORTAL_DING
    ```
 
 2. Install dependencies:
@@ -55,7 +55,7 @@ DevPool is a cutting-edge platform connecting developers with exciting job oppor
 
 ## 🤝 Contributing
 
-We welcome contributions to DevPool! Here's how you can help:
+We welcome contributions to DING! Here's how you can help:
 
 ### Reporting Bugs
 
